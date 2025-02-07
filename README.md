@@ -12,10 +12,10 @@ Este proyecto ha sido creado utilizando **WordPress**, **Elementor** y **WooComm
 
 ## Imágenes
 
-1. ![Foto 1](img/Group%2042.jpg)
-2. ![Foto 2](img/Group%2045.jpg)
-3. ![Foto 3](img/Group%2048.jpg)
+1. ![Foto 1](./img/Group%2042.jpg)
+2. ![Foto 2](./img/Group%2045.jpg)
+3. ![Foto 3](./img/Group%2048.jpg)
 
 ---
 
-¡Espero que esto te sea útil! Si necesitas algo más, ¡déjame saber!
+
